@@ -1,0 +1,18 @@
+.navbar {
+	background-color: white;
+}
+.nav-link {
+	float: right;
+	padding: 30px;
+	font-size: 14pt;
+}
+.navbar-brand {
+	margin-right: 100px;
+}
+.banner {
+	background-size: cover;
+	background-image: url("assets/images/ntsbanner.jpg");
+	background-color: black;
+	height: 850px;
+	background-attachment: fixed
+}
