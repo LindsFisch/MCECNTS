@@ -1,18 +1,28 @@
 .navbar {
 	background-color: white;
 }
-.nav-link {
-	float: right;
-	padding: 30px;
-	font-size: 14pt;
+
+#mceclogo {
+	max-height: 50px;
+    width: auto;
+    margin-top: -11px;
 }
-.navbar-brand {
-	margin-right: 100px;
-}
+
 .banner {
 	background-size: cover;
-	background-image: url("assets/images/ntsbanner.jpg");
+	background-image: url("../images/coverbanner.jpg");
 	background-color: black;
-	height: 850px;
-	background-attachment: fixed
+	height: 600px;
+	margin-top: -47px;
+}
+
+#about, #schedule, #travel, #policy {
+	background-color: #403f3d;
+	color: white;
+	padding: 30px 40px;
+}
+
+#reg, #speaker, #prodev, #sponsor {
+	padding: 30px 40px;
+
 }
