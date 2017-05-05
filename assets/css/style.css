@@ -26,3 +26,9 @@
 	padding: 30px 40px;
 
 }
+
+#schedule > .wrapper {
+	width: 75%;
+	margin: auto;
+	background-color: #403f3d;
+}
