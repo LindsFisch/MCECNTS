@@ -27,8 +27,16 @@
 
 }
 
-.wrapper {
+div.wrapper {
 	width: 75%;
 	margin: auto;
 	background-color: #403f3d;
+}
+
+div.uv-section_container {
+	margin: auto;
+}
+
+div.uv-card {
+	margin: auto;
 }
