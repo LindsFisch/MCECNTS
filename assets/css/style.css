@@ -1,3 +1,16 @@
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Leckerli One', cursive; */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Leckerli One', cursive;
+}
+
 .navbar {
 	background-color: white;
 }
@@ -17,13 +30,13 @@
 	margin-top: -47px;
 }
 
-#about, #schedule, #travel, #policy {
+#about, #schedule, #sponsor, #policy {
 	background-color: #403f3d;
 	color: white;
 	padding: 30px 40px;
 }
 
-#reg, #speaker, #prodev, #sponsor {
+#reg, #speaker, #prodev, #travel {
 	padding: 30px 40px;
 
 }
@@ -42,8 +55,14 @@ div.uv-card {
 	margin: auto;
 }
 
-body.template-plant {
-	margin: auto;
-	width: 75%;
-	background-color: #403f3d;
+li {
+	text-align: left;
+}
+
+p {
+	padding: 5px;
+}
+
+img {
+	padding: 5px;
 }
