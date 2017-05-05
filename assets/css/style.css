@@ -5,7 +5,8 @@
 #mceclogo {
 	max-height: 50px;
     width: auto;
-    margin-top: -11px;
+    position: absolute;
+    top: 0;
 }
 
 .banner {
@@ -39,4 +40,10 @@ div.uv-section_container {
 
 div.uv-card {
 	margin: auto;
+}
+
+body.template-plant {
+	margin: auto;
+	width: 75%;
+	background-color: #403f3d;
 }
